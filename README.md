@@ -1,5 +1,5 @@
 ## Demo:
-### hhttps://git-job-hub.netlify.app/
+### https://git-job-hub.netlify.app/
 
 ## Available Scripts
 
